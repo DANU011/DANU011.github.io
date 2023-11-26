@@ -20,7 +20,7 @@ title                    : "Toy" # 블로그 타이틀
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dany"
-description              : "블로그 간단 설명"
+description              : "r_ru_rul_rule"
 url                      : "https://DANU011.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "DANU011/comments" #댓글 경로 / github name/repository
@@ -103,18 +103,18 @@ analytics: # 블로그 접근 경로 확인 코드
 
 # Site Author / 사이드바 소개 부분
 author:
-  name             : "닉네임"
+  name             : "dany"
   avatar           : "/assets/images/profile.jpg"
   bio              : "간단한 글귀"
-  location         : "사는 지역"
+  location         : "Busan"
   
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:이메일주소@gmail.com"
+      url: "mailto:qnfrdms2003@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/유저이름"
+      url: "https://github.com/DANU011"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/인스타 아이디"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/유저이름"
+      url: "https://github.com/DANU011"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
       # url:
