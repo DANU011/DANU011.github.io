@@ -104,8 +104,8 @@ analytics: # 블로그 접근 경로 확인 코드
 # Site Author / 사이드바 소개 부분
 author:
   name             : "dany"
-  avatar           : "/assets/images/마시.png"
-  bio              : "간단한 글귀"
+  avatar           : "/assets/images/마시_w.png"
+  bio              : "간단한 소개"
   location         : "Busan"
   
   links:
